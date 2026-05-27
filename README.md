@@ -222,9 +222,16 @@ The competition contributes **40%** of your course grade:
 | Milestone report | 10% | Baseline results, ≥2 modifications with ablations, clear plan |
 | Final report (4 pages) | 10% | Thorough description of approach, ablation studies, analysis of what worked and didn't, references to relevant literature |
 | Presentation | 10% | Clear explanation, demo, insightful Q&A |
-| Team ranking | 10% | Based on hidden test PPL. Tiered: top 20% → full marks, top 40% → 90%, top 60% → 80%, bottom 40% → 70% |
+| Team ranking | 10% | (See explanation) |
 
-**Note:** No group receives zero for ranking if they submit a working model. The ranking curve is generous — what matters most is that you engage seriously with the problem and write a thoughtful report.
+### Ranking-Grade Correspondence
+Ranking <=10: 10 pts (already locked)
+ranking in >85% <= 100% (exclude top 10) quantile : 9 pts + ranking increment
+ranking in >70% <= 80% quantile : 8 pts + ranking increment
+...
+ranking in >0% <= 10% quantile : 1 pts + ranking increment
+
+Ranking increment will be capped by the score of the higher bracket. ranking increment is a linear function of position.
 
 ## Resources
 
