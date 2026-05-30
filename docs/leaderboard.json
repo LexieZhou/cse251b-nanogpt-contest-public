@@ -1,326 +1,357 @@
 {
-  "updated_at": "2026-05-25 09:58 UTC",
+  "updated_at": "2026-05-30 04:17 UTC",
   "data_split": "val",
   "time_limit_sec": 300,
   "entries": [
     {
       "rank": 1,
       "group": "nanocloud01",
-      "perplexity": 19.4375,
-      "total_params": 96643584,
-      "eval_time_sec": 34.38,
-      "wall_time_sec": 37.7
+      "perplexity": 18.7681,
+      "total_params": 99032320,
+      "eval_time_sec": 78.9,
+      "wall_time_sec": 83.5
     },
     {
       "rank": 2,
       "group": "binners-and-losers",
       "perplexity": 19.7366,
       "total_params": 99882726,
-      "eval_time_sec": 35.34,
-      "wall_time_sec": 39.8
+      "eval_time_sec": 61.23,
+      "wall_time_sec": 66.7
     },
     {
       "rank": 3,
       "group": "solo",
       "perplexity": 20.6273,
       "total_params": 94699617,
-      "eval_time_sec": 36.88,
-      "wall_time_sec": 40.1
+      "eval_time_sec": 49.09,
+      "wall_time_sec": 54.2
     },
     {
       "rank": 4,
-      "group": "offercome",
-      "perplexity": 21.4713,
-      "total_params": 96734720,
-      "eval_time_sec": 29.11,
-      "wall_time_sec": 33.3
+      "group": "z-sw",
+      "perplexity": 21.4359,
+      "total_params": 98421792,
+      "eval_time_sec": 290.64,
+      "wall_time_sec": 297.1
     },
     {
       "rank": 5,
-      "group": "bumblebee",
-      "perplexity": 23.47,
-      "total_params": 93910016,
-      "eval_time_sec": 34.05,
-      "wall_time_sec": 37.3
+      "group": "offercome",
+      "perplexity": 21.4713,
+      "total_params": 96734720,
+      "eval_time_sec": 67.35,
+      "wall_time_sec": 73.5
     },
     {
       "rank": 6,
-      "group": "z-sw",
-      "perplexity": 23.5776,
-      "total_params": 98421792,
-      "eval_time_sec": 38.95,
-      "wall_time_sec": 43.2
+      "group": "bumblebee",
+      "perplexity": 23.47,
+      "total_params": 93910016,
+      "eval_time_sec": 34.24,
+      "wall_time_sec": 38.5
     },
     {
       "rank": 7,
-      "group": "minions-4",
-      "perplexity": 24.6852,
-      "total_params": 95346176,
-      "eval_time_sec": 28.1,
-      "wall_time_sec": 31.6
+      "group": "hpp-ai",
+      "perplexity": 23.6275,
+      "total_params": 98645760,
+      "eval_time_sec": 84.11,
+      "wall_time_sec": 88.8
     },
     {
       "rank": 8,
-      "group": "maggie",
-      "perplexity": 25.5118,
-      "total_params": 98849184,
-      "eval_time_sec": 31.58,
-      "wall_time_sec": 35.8
+      "group": "who-s-adam",
+      "perplexity": 24.1691,
+      "total_params": 99027200,
+      "eval_time_sec": 69.75,
+      "wall_time_sec": 74.2
     },
     {
       "rank": 9,
-      "group": "hpp-ai",
-      "perplexity": 25.801,
-      "total_params": 97721600,
-      "eval_time_sec": 33.98,
-      "wall_time_sec": 37.3
+      "group": "deeplearners",
+      "perplexity": 24.1981,
+      "total_params": 98849184,
+      "eval_time_sec": 73.2,
+      "wall_time_sec": 77.9
     },
     {
       "rank": 10,
-      "group": "dlcq",
-      "perplexity": 26.7015,
-      "total_params": 98217798,
-      "eval_time_sec": 22.13,
-      "wall_time_sec": 25.6
+      "group": "fire-fighter",
+      "perplexity": 24.5348,
+      "total_params": 96822960,
+      "eval_time_sec": 101.07,
+      "wall_time_sec": 105.8
     },
     {
       "rank": 11,
-      "group": "aufklarng",
-      "perplexity": 27.7021,
-      "total_params": 91162880,
-      "eval_time_sec": 28.54,
-      "wall_time_sec": 34.6
+      "group": "minions-4",
+      "perplexity": 24.6852,
+      "total_params": 95346176,
+      "eval_time_sec": 64.82,
+      "wall_time_sec": 69.6
     },
     {
       "rank": 12,
-      "group": "doubao-4-7",
-      "perplexity": 28.3457,
-      "total_params": 99027200,
-      "eval_time_sec": 31.73,
-      "wall_time_sec": 35.6
+      "group": "llm-application-group",
+      "perplexity": 25.4379,
+      "total_params": 95233536,
+      "eval_time_sec": 64.53,
+      "wall_time_sec": 69.4
     },
     {
       "rank": 13,
-      "group": "oom",
-      "perplexity": 29.5913,
-      "total_params": 98939904,
-      "eval_time_sec": 34.67,
-      "wall_time_sec": 37.6
+      "group": "maggie",
+      "perplexity": 25.5118,
+      "total_params": 98849184,
+      "eval_time_sec": 72.77,
+      "wall_time_sec": 78.7
     },
     {
       "rank": 14,
-      "group": "ding-group",
-      "perplexity": 29.6193,
-      "total_params": 98908320,
-      "eval_time_sec": 33.81,
-      "wall_time_sec": 37.4
+      "group": "doubao-4-7",
+      "perplexity": 25.8991,
+      "total_params": 99027200,
+      "eval_time_sec": 73.04,
+      "wall_time_sec": 78.4
     },
     {
       "rank": 15,
-      "group": "fire-fighter",
-      "perplexity": 30.1945,
-      "total_params": 97461936,
-      "eval_time_sec": 40.01,
-      "wall_time_sec": 44.1
+      "group": "gli",
+      "perplexity": 25.9473,
+      "total_params": 95269632,
+      "eval_time_sec": 67.59,
+      "wall_time_sec": 72.3
     },
     {
       "rank": 16,
-      "group": "lyra",
-      "perplexity": 30.8526,
-      "total_params": 91818240,
-      "eval_time_sec": 26.28,
-      "wall_time_sec": 29.8
+      "group": "dlcq",
+      "perplexity": 26.7045,
+      "total_params": 98217798,
+      "eval_time_sec": 60.4,
+      "wall_time_sec": 67.6
     },
     {
       "rank": 17,
-      "group": "indigo-octothorpe",
-      "perplexity": 33.1846,
-      "total_params": 99727232,
-      "eval_time_sec": 38.99,
-      "wall_time_sec": 43.3
+      "group": "dbdx",
+      "perplexity": 26.825,
+      "total_params": 98511616,
+      "eval_time_sec": 90.28,
+      "wall_time_sec": 96.9
     },
     {
       "rank": 18,
-      "group": "cpzhou",
-      "perplexity": 34.4832,
-      "total_params": 91832960,
-      "eval_time_sec": 30.33,
-      "wall_time_sec": 34.1
+      "group": "aufklarng",
+      "perplexity": 27.7021,
+      "total_params": 91162880,
+      "eval_time_sec": 64.13,
+      "wall_time_sec": 69.4
     },
     {
       "rank": 19,
-      "group": "dbdx",
-      "perplexity": 35.251,
-      "total_params": 98778624,
-      "eval_time_sec": 32.33,
-      "wall_time_sec": 36.9
+      "group": "zz-top",
+      "perplexity": 28.2052,
+      "total_params": 99570912,
+      "eval_time_sec": 78.58,
+      "wall_time_sec": 82.8
     },
     {
       "rank": 20,
-      "group": "who-s-adam",
-      "perplexity": 35.4785,
-      "total_params": 97713920,
-      "eval_time_sec": 36.01,
-      "wall_time_sec": 40.0
+      "group": "cpzhou",
+      "perplexity": 28.3076,
+      "total_params": 99537312,
+      "eval_time_sec": 72.82,
+      "wall_time_sec": 78.6
     },
     {
       "rank": 21,
-      "group": "251b-nct",
-      "perplexity": 40.6346,
-      "total_params": 91654400,
-      "eval_time_sec": 41.85,
-      "wall_time_sec": 47.5
+      "group": "renren",
+      "perplexity": 28.4706,
+      "total_params": 99365888,
+      "eval_time_sec": 68.56,
+      "wall_time_sec": 74.0
     },
     {
       "rank": 22,
-      "group": "team-awesome",
-      "perplexity": 41.4169,
-      "total_params": 91903360,
-      "eval_time_sec": 26.29,
-      "wall_time_sec": 29.6
+      "group": "oom",
+      "perplexity": 28.621,
+      "total_params": 98939904,
+      "eval_time_sec": 81.68,
+      "wall_time_sec": 86.1
     },
     {
       "rank": 23,
-      "group": "zz-top",
-      "perplexity": 45.5555,
-      "total_params": 99626688,
-      "eval_time_sec": 29.57,
-      "wall_time_sec": 32.6
+      "group": "ding-group",
+      "perplexity": 29.6193,
+      "total_params": 98908320,
+      "eval_time_sec": 80.73,
+      "wall_time_sec": 86.2
     },
     {
       "rank": 24,
-      "group": "orange-cat",
-      "perplexity": 55.1004,
-      "total_params": 98785792,
-      "eval_time_sec": 31.51,
-      "wall_time_sec": 35.9
+      "group": "wilt-bam-kobe",
+      "perplexity": 30.1022,
+      "total_params": 98850528,
+      "eval_time_sec": 78.48,
+      "wall_time_sec": 84.2
     },
     {
       "rank": 25,
-      "group": "renren",
-      "perplexity": 67.928,
-      "total_params": 99365888,
-      "eval_time_sec": 42.2,
-      "wall_time_sec": 45.9
+      "group": "indigo-octothorpe",
+      "perplexity": 30.4388,
+      "total_params": 99727232,
+      "eval_time_sec": 90.45,
+      "wall_time_sec": 96.4
     },
     {
       "rank": 26,
-      "group": "wilt-bam-kobe",
-      "perplexity": 70.5703,
-      "total_params": 19435776,
-      "eval_time_sec": 8.88,
-      "wall_time_sec": 11.9
+      "group": "lyra",
+      "perplexity": 30.8526,
+      "total_params": 91818240,
+      "eval_time_sec": 61.19,
+      "wall_time_sec": 66.0
     },
     {
       "rank": 27,
-      "group": "a-sheep",
-      "perplexity": 87.8318,
-      "total_params": 51463168,
-      "eval_time_sec": 15.89,
-      "wall_time_sec": 19.0
+      "group": "arknights",
+      "perplexity": 31.3908,
+      "total_params": 98130432,
+      "eval_time_sec": 81.25,
+      "wall_time_sec": 87.9
     },
     {
       "rank": 28,
-      "group": "rabong",
-      "perplexity": 205.81,
-      "total_params": 30357504,
-      "eval_time_sec": 10.71,
-      "wall_time_sec": 13.8
+      "group": "porto-s-bakers",
+      "perplexity": 33.3185,
+      "total_params": 98619904,
+      "eval_time_sec": 92.2,
+      "wall_time_sec": 97.5
     },
     {
       "rank": 29,
-      "group": "class",
-      "perplexity": 582.8395,
-      "total_params": 16287488,
-      "eval_time_sec": 5.99,
-      "wall_time_sec": 9.0
+      "group": "not-determined",
+      "perplexity": 34.2197,
+      "total_params": 96088320,
+      "eval_time_sec": 59.29,
+      "wall_time_sec": 64.5
     },
     {
       "rank": 30,
+      "group": "class",
+      "perplexity": 39.4709,
+      "total_params": 51514240,
+      "eval_time_sec": 36.74,
+      "wall_time_sec": 41.1
+    },
+    {
+      "rank": 31,
+      "group": "group7",
+      "perplexity": 39.8165,
+      "total_params": 51500032,
+      "eval_time_sec": 39.11,
+      "wall_time_sec": 43.5
+    },
+    {
+      "rank": 32,
+      "group": "liw069",
+      "perplexity": 39.8165,
+      "total_params": 51500032,
+      "eval_time_sec": 38.59,
+      "wall_time_sec": 42.2
+    },
+    {
+      "rank": 33,
+      "group": "251b-nct",
+      "perplexity": 40.6346,
+      "total_params": 91654400,
+      "eval_time_sec": 95.54,
+      "wall_time_sec": 99.2
+    },
+    {
+      "rank": 34,
+      "group": "team-awesome",
+      "perplexity": 41.4169,
+      "total_params": 91903360,
+      "eval_time_sec": 60.06,
+      "wall_time_sec": 64.1
+    },
+    {
+      "rank": 35,
+      "group": "qudie",
+      "perplexity": 41.7248,
+      "total_params": 95271168,
+      "eval_time_sec": 70.19,
+      "wall_time_sec": 75.0
+    },
+    {
+      "rank": 36,
+      "group": "udiegpt",
+      "perplexity": 41.7248,
+      "total_params": 95271168,
+      "eval_time_sec": 70.48,
+      "wall_time_sec": 74.8
+    },
+    {
+      "rank": 37,
+      "group": "orange-cat",
+      "perplexity": 55.1004,
+      "total_params": 98785792,
+      "eval_time_sec": 73.0,
+      "wall_time_sec": 80.8
+    },
+    {
+      "rank": 38,
+      "group": "a-sheep",
+      "perplexity": 87.8318,
+      "total_params": 51463168,
+      "eval_time_sec": 37.86,
+      "wall_time_sec": 41.5
+    },
+    {
+      "rank": 39,
+      "group": "rabong",
+      "perplexity": 205.81,
+      "total_params": 30357504,
+      "eval_time_sec": 27.83,
+      "wall_time_sec": 31.1
+    },
+    {
+      "rank": 40,
       "group": "zw",
-      "perplexity": 50708.4975,
+      "perplexity": 50823.5464,
       "total_params": 6963840,
-      "eval_time_sec": 4.76,
-      "wall_time_sec": 7.3
+      "eval_time_sec": 14.12,
+      "wall_time_sec": 17.3
     }
   ],
   "errors": [
     {
-      "group": "arknights",
-      "status": "ERROR",
-      "category": "missing_model_py",
-      "hint": "Your HuggingFace repo doesn't contain `model.py` at the top level. Upload your model class file (with `load_model()`) alongside `checkpoint.pt`.",
-      "error": "FileNotFoundError: Expected model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/arknights. Your submission directory must contain a model.py with a load_model() function."
+      "group": "bds",
+      "status": "DOWNLOAD_FAILED",
+      "category": "private_or_unauthorized",
+      "hint": "We got HTTP 401 fetching your repo. It's either private without TA access, gated, or the wrong repo ID. Make the repo public, or grant access to the TA HuggingFace accounts (see public README).",
+      "error": "401 Client Error. (Request ID: Root=1-6a1a661b-37cbf8473d1e44ac0961a011;d346a00e-4c1c-4f93-9c14-ac314b455e19)\n\nCannot access gated repo for url https://huggingface.co/ashleyshin/nanogpt_lr1e-3_ckpt800"
     },
     {
       "group": "bill-s-team",
       "status": "ERROR",
-      "category": "import_error",
-      "hint": "Couldn't import your `model.py`. Verify your submission runs locally with `python evaluate.py --model_dir ./your_dir/ --data val.bin` before pushing to the Hub.",
-      "error": "ModuleNotFoundError: No module named 'config'"
-    },
-    {
-      "group": "deep-learners",
-      "status": "DOWNLOAD_FAILED",
-      "category": "download_failed",
-      "hint": "Couldn't download your repo from HuggingFace. Check the repo ID and that the repo is public (or shared with the TA accounts).",
-      "error": "403 Client Error. (Request ID: Root=1-6a141efb-1475824640fa06305ae72ad3;cd947bcc-fe4a-41e7-aad2-56cb6315a545)\n\nCannot access gated repo for url https://huggingface.co/KevL031217/cse251b-group-deeplear"
-    },
-    {
-      "group": "gli",
-      "status": "ERROR",
-      "category": "other",
-      "hint": "Unknown error. Email the TAs with your group name to get the full eval log.",
-      "error": "AttributeError: 'tuple' object has no attribute 'shape'"
-    },
-    {
-      "group": "group7",
-      "status": "ERROR",
-      "category": "missing_model_py",
-      "hint": "Your HuggingFace repo doesn't contain `model.py` at the top level. Upload your model class file (with `load_model()`) alongside `checkpoint.pt`.",
-      "error": "FileNotFoundError: Expected model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/group7. Your submission directory must contain a model.py with a load_model() function."
-    },
-    {
-      "group": "liw069",
-      "status": "ERROR",
-      "category": "missing_model_py",
-      "hint": "Your HuggingFace repo doesn't contain `model.py` at the top level. Upload your model class file (with `load_model()`) alongside `checkpoint.pt`.",
-      "error": "FileNotFoundError: Expected model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/liw069. Your submission directory must contain a model.py with a load_model() function."
+      "category": "wrong_vocab",
+      "hint": "Your model produces logits with the wrong vocab size; expected 50257 (GPT-2 BPE).",
+      "error": "ValueError: Model output has vocab size 50304, expected 50257. Your model must produce logits over the GPT-2 vocabulary."
     },
     {
       "group": "otterly-intelligent",
       "status": "ERROR",
-      "category": "missing_model_py",
-      "hint": "Your HuggingFace repo doesn't contain `model.py` at the top level. Upload your model class file (with `load_model()`) alongside `checkpoint.pt`.",
-      "error": "FileNotFoundError: Expected model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/otterly-intelligent. Your submission directory must contain a model.py with a load_model() function."
+      "category": "missing_load_model",
+      "hint": "Your `model.py` is missing a `load_model(checkpoint_path, device)` function. See the public README's 'Required Model Interface' section.",
+      "error": "AttributeError: model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/otterly-intelligent must define a load_model(checkpoint_path, device) function."
     },
     {
       "group": "pico-on-my-gptacos",
-      "status": "ERROR",
-      "category": "missing_checkpoint",
-      "hint": "Your repo is missing `checkpoint.pt`. Either name your weights file `checkpoint.pt` or use `--checkpoint_filename` and tell the TAs.",
-      "error": "FileNotFoundError: Checkpoint not found: /home/matt/cse251b-nanogpt-contest/results/downloads/pico-on-my-gptacos/checkpoint.pt"
-    },
-    {
-      "group": "porto-s-bakers",
-      "status": "ERROR",
-      "category": "missing_model_py",
-      "hint": "Your HuggingFace repo doesn't contain `model.py` at the top level. Upload your model class file (with `load_model()`) alongside `checkpoint.pt`.",
-      "error": "FileNotFoundError: Expected model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/porto-s-bakers. Your submission directory must contain a model.py with a load_model() function."
-    },
-    {
-      "group": "qudie",
-      "status": "ERROR",
-      "category": "import_error",
-      "hint": "Couldn't import your `model.py`. Verify your submission runs locally with `python evaluate.py --model_dir ./your_dir/ --data val.bin` before pushing to the Hub.",
-      "error": "SyntaxError: source code string cannot contain null bytes"
-    },
-    {
-      "group": "udiegpt",
-      "status": "ERROR",
-      "category": "import_error",
-      "hint": "Couldn't import your `model.py`. Verify your submission runs locally with `python evaluate.py --model_dir ./your_dir/ --data val.bin` before pushing to the Hub.",
-      "error": "SyntaxError: source code string cannot contain null bytes"
+      "status": "DOWNLOAD_FAILED",
+      "category": "private_or_unauthorized",
+      "hint": "We got HTTP 401 fetching your repo. It's either private without TA access, gated, or the wrong repo ID. Make the repo public, or grant access to the TA HuggingFace accounts (see public README).",
+      "error": "401 Client Error. (Request ID: Root=1-6a1a6d56-76de703f22e6b4a969520574;8ce4e8ae-f23d-4c3e-b465-03cfa536c7f8)\n\nCannot access gated repo for url https://huggingface.co/jankwong705/picoLM/resolve/33df62"
     }
   ]
 }
