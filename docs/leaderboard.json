@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31 03:10 UTC",
+  "updated_at": "2026-06-01 00:13 UTC",
   "data_split": "val",
   "time_limit_sec": 300,
   "entries": [
@@ -8,360 +8,361 @@
       "group": "nanocloud01",
       "perplexity": 18.7681,
       "total_params": 99032320,
-      "eval_time_sec": 38.49,
-      "wall_time_sec": 42.8
+      "eval_time_sec": 78.04,
+      "wall_time_sec": 82.7
     },
     {
       "rank": 2,
       "group": "binners-and-losers",
-      "perplexity": 19.7366,
+      "perplexity": 19.0516,
       "total_params": 99882726,
-      "eval_time_sec": 81.91,
-      "wall_time_sec": 88.0
+      "eval_time_sec": 81.85,
+      "wall_time_sec": 88.1
     },
     {
       "rank": 3,
-      "group": "solo",
-      "perplexity": 20.6273,
-      "total_params": 94699617,
-      "eval_time_sec": 89.97,
-      "wall_time_sec": 94.5
+      "group": "z-sw",
+      "perplexity": 19.4028,
+      "total_params": 98409248,
+      "eval_time_sec": 291.83,
+      "wall_time_sec": 297.6
     },
     {
       "rank": 4,
-      "group": "z-sw",
-      "perplexity": 21.436,
-      "total_params": 98421792,
-      "eval_time_sec": 290.06,
-      "wall_time_sec": 297.0
+      "group": "lyra",
+      "perplexity": 19.7823,
+      "total_params": 99058816,
+      "eval_time_sec": 75.97,
+      "wall_time_sec": 81.4
     },
     {
       "rank": 5,
-      "group": "offercome",
-      "perplexity": 21.4713,
-      "total_params": 96734720,
-      "eval_time_sec": 67.28,
-      "wall_time_sec": 72.9
+      "group": "solo",
+      "perplexity": 20.6273,
+      "total_params": 94699617,
+      "eval_time_sec": 89.62,
+      "wall_time_sec": 94.7
     },
     {
       "rank": 6,
-      "group": "bumblebee",
-      "perplexity": 23.47,
-      "total_params": 93910016,
-      "eval_time_sec": 78.05,
-      "wall_time_sec": 82.7
+      "group": "offercome",
+      "perplexity": 21.4713,
+      "total_params": 96734720,
+      "eval_time_sec": 67.06,
+      "wall_time_sec": 73.2
     },
     {
       "rank": 7,
-      "group": "hpp-ai",
-      "perplexity": 23.6275,
-      "total_params": 98645760,
-      "eval_time_sec": 83.98,
-      "wall_time_sec": 89.1
+      "group": "who-s-adam",
+      "perplexity": 21.9693,
+      "total_params": 99027200,
+      "eval_time_sec": 49.78,
+      "wall_time_sec": 54.4
     },
     {
       "rank": 8,
-      "group": "doubao-4-7",
-      "perplexity": 23.739,
-      "total_params": 99027200,
-      "eval_time_sec": 72.91,
-      "wall_time_sec": 78.9
+      "group": "bds",
+      "perplexity": 22.8463,
+      "total_params": 98759424,
+      "eval_time_sec": 69.82,
+      "wall_time_sec": 75.7
     },
     {
       "rank": 9,
-      "group": "bds",
-      "perplexity": 23.7655,
-      "total_params": 98759424,
-      "eval_time_sec": 69.65,
-      "wall_time_sec": 76.3
+      "group": "bumblebee",
+      "perplexity": 23.47,
+      "total_params": 93910016,
+      "eval_time_sec": 77.74,
+      "wall_time_sec": 82.6
     },
     {
       "rank": 10,
-      "group": "who-s-adam",
-      "perplexity": 24.1691,
-      "total_params": 99027200,
-      "eval_time_sec": 69.57,
-      "wall_time_sec": 73.6
+      "group": "hpp-ai",
+      "perplexity": 23.6275,
+      "total_params": 98645760,
+      "eval_time_sec": 84.08,
+      "wall_time_sec": 88.5
     },
     {
       "rank": 11,
-      "group": "deeplearners",
-      "perplexity": 24.1981,
-      "total_params": 98849184,
-      "eval_time_sec": 73.04,
-      "wall_time_sec": 78.6
+      "group": "gli",
+      "perplexity": 23.6941,
+      "total_params": 95269632,
+      "eval_time_sec": 50.49,
+      "wall_time_sec": 54.3
     },
     {
       "rank": 12,
-      "group": "fire-fighter",
-      "perplexity": 24.5348,
-      "total_params": 96822960,
-      "eval_time_sec": 101.03,
-      "wall_time_sec": 106.2
+      "group": "doubao-4-7",
+      "perplexity": 23.739,
+      "total_params": 99027200,
+      "eval_time_sec": 60.75,
+      "wall_time_sec": 66.1
     },
     {
       "rank": 13,
-      "group": "bill-s-team",
-      "perplexity": 24.5839,
-      "total_params": 98817600,
-      "eval_time_sec": 66.5,
-      "wall_time_sec": 71.3
+      "group": "otterly-intelligent",
+      "perplexity": 23.7655,
+      "total_params": 98759424,
+      "eval_time_sec": 69.97,
+      "wall_time_sec": 75.7
     },
     {
       "rank": 14,
-      "group": "minions-4",
-      "perplexity": 24.6852,
-      "total_params": 95346176,
-      "eval_time_sec": 55.83,
-      "wall_time_sec": 60.0
+      "group": "deeplearners",
+      "perplexity": 24.1981,
+      "total_params": 98849184,
+      "eval_time_sec": 73.05,
+      "wall_time_sec": 78.5
     },
     {
       "rank": 15,
-      "group": "llm-application-group",
-      "perplexity": 25.4379,
-      "total_params": 95233536,
-      "eval_time_sec": 64.38,
-      "wall_time_sec": 68.8
+      "group": "zz-top",
+      "perplexity": 24.2087,
+      "total_params": 98849190,
+      "eval_time_sec": 78.25,
+      "wall_time_sec": 83.9
     },
     {
       "rank": 16,
-      "group": "maggie",
-      "perplexity": 25.5118,
-      "total_params": 98849184,
-      "eval_time_sec": 58.69,
-      "wall_time_sec": 64.7
+      "group": "dbdx",
+      "perplexity": 24.2374,
+      "total_params": 98511616,
+      "eval_time_sec": 90.02,
+      "wall_time_sec": 96.1
     },
     {
       "rank": 17,
-      "group": "wilt-bam-kobe",
-      "perplexity": 25.7771,
-      "total_params": 98850528,
-      "eval_time_sec": 78.04,
-      "wall_time_sec": 84.1
+      "group": "bill-s-team",
+      "perplexity": 24.5326,
+      "total_params": 98817600,
+      "eval_time_sec": 65.77,
+      "wall_time_sec": 71.1
     },
     {
       "rank": 18,
-      "group": "gli",
-      "perplexity": 25.9473,
-      "total_params": 95269632,
-      "eval_time_sec": 67.61,
-      "wall_time_sec": 71.4
+      "group": "fire-fighter",
+      "perplexity": 24.5348,
+      "total_params": 96822960,
+      "eval_time_sec": 72.18,
+      "wall_time_sec": 77.3
     },
     {
       "rank": 19,
-      "group": "catalyst",
-      "perplexity": 26.204,
-      "total_params": 96019968,
-      "eval_time_sec": 39.69,
-      "wall_time_sec": 44.3
+      "group": "minions-4",
+      "perplexity": 24.6852,
+      "total_params": 95346176,
+      "eval_time_sec": 64.61,
+      "wall_time_sec": 69.3
     },
     {
       "rank": 20,
-      "group": "dlcq",
-      "perplexity": 26.7045,
-      "total_params": 98217798,
-      "eval_time_sec": 60.19,
-      "wall_time_sec": 66.4
+      "group": "class",
+      "perplexity": 24.9034,
+      "total_params": 98902272,
+      "eval_time_sec": 75.7,
+      "wall_time_sec": 81.5
     },
     {
       "rank": 21,
-      "group": "dbdx",
-      "perplexity": 26.825,
-      "total_params": 98511616,
-      "eval_time_sec": 90.21,
-      "wall_time_sec": 95.4
+      "group": "maggie",
+      "perplexity": 25.1348,
+      "total_params": 98849184,
+      "eval_time_sec": 72.46,
+      "wall_time_sec": 77.9
     },
     {
       "rank": 22,
-      "group": "a-sheep",
-      "perplexity": 27.4998,
-      "total_params": 99980160,
-      "eval_time_sec": 76.16,
-      "wall_time_sec": 81.2
+      "group": "team-awesome",
+      "perplexity": 25.3219,
+      "total_params": 91178880,
+      "eval_time_sec": 89.0,
+      "wall_time_sec": 92.5
     },
     {
       "rank": 23,
-      "group": "aufklarng",
-      "perplexity": 27.7021,
-      "total_params": 91162880,
-      "eval_time_sec": 65.55,
-      "wall_time_sec": 71.2
+      "group": "llm-application-group",
+      "perplexity": 25.4379,
+      "total_params": 95233536,
+      "eval_time_sec": 63.93,
+      "wall_time_sec": 68.0
     },
     {
       "rank": 24,
-      "group": "arknights",
-      "perplexity": 27.8943,
-      "total_params": 98130432,
-      "eval_time_sec": 81.02,
-      "wall_time_sec": 87.0
+      "group": "wilt-bam-kobe",
+      "perplexity": 25.7771,
+      "total_params": 98850528,
+      "eval_time_sec": 61.5,
+      "wall_time_sec": 66.0
     },
     {
       "rank": 25,
-      "group": "zz-top",
-      "perplexity": 28.2052,
-      "total_params": 99570912,
-      "eval_time_sec": 78.11,
-      "wall_time_sec": 81.9
+      "group": "catalyst",
+      "perplexity": 26.204,
+      "total_params": 96019968,
+      "eval_time_sec": 59.15,
+      "wall_time_sec": 63.8
     },
     {
       "rank": 26,
-      "group": "cpzhou",
-      "perplexity": 28.3076,
-      "total_params": 99537312,
-      "eval_time_sec": 72.8,
-      "wall_time_sec": 78.9
+      "group": "not-determined",
+      "perplexity": 26.204,
+      "total_params": 96019968,
+      "eval_time_sec": 58.82,
+      "wall_time_sec": 64.6
     },
     {
       "rank": 27,
       "group": "renren",
-      "perplexity": 28.4706,
+      "perplexity": 26.3397,
       "total_params": 99365888,
-      "eval_time_sec": 96.04,
-      "wall_time_sec": 101.0
+      "eval_time_sec": 95.62,
+      "wall_time_sec": 102.0
     },
     {
       "rank": 28,
-      "group": "oom",
-      "perplexity": 28.621,
-      "total_params": 98939904,
-      "eval_time_sec": 81.79,
-      "wall_time_sec": 86.3
+      "group": "dlcq",
+      "perplexity": 26.7045,
+      "total_params": 98217798,
+      "eval_time_sec": 59.85,
+      "wall_time_sec": 67.3
     },
     {
       "rank": 29,
-      "group": "ding-group",
-      "perplexity": 29.6193,
-      "total_params": 98908320,
-      "eval_time_sec": 80.78,
-      "wall_time_sec": 85.4
+      "group": "oom",
+      "perplexity": 26.9087,
+      "total_params": 98939904,
+      "eval_time_sec": 81.7,
+      "wall_time_sec": 87.0
     },
     {
       "rank": 30,
-      "group": "indigo-octothorpe",
-      "perplexity": 30.4388,
-      "total_params": 99727232,
-      "eval_time_sec": 90.2,
-      "wall_time_sec": 95.9
+      "group": "ding-group",
+      "perplexity": 27.1545,
+      "total_params": 98908320,
+      "eval_time_sec": 80.38,
+      "wall_time_sec": 85.8
     },
     {
       "rank": 31,
-      "group": "lyra",
-      "perplexity": 30.8526,
-      "total_params": 91818240,
-      "eval_time_sec": 61.11,
-      "wall_time_sec": 65.6
+      "group": "a-sheep",
+      "perplexity": 27.4998,
+      "total_params": 99980160,
+      "eval_time_sec": 75.96,
+      "wall_time_sec": 80.8
     },
     {
       "rank": 32,
-      "group": "qudie",
-      "perplexity": 31.5123,
-      "total_params": 95271168,
-      "eval_time_sec": 70.13,
-      "wall_time_sec": 75.0
+      "group": "arknights",
+      "perplexity": 27.5352,
+      "total_params": 98130432,
+      "eval_time_sec": 80.97,
+      "wall_time_sec": 86.9
     },
     {
       "rank": 33,
-      "group": "udiegpt",
-      "perplexity": 31.5137,
-      "total_params": 95271168,
-      "eval_time_sec": 63.49,
-      "wall_time_sec": 68.3
+      "group": "aufklarng",
+      "perplexity": 27.7021,
+      "total_params": 91162880,
+      "eval_time_sec": 64.92,
+      "wall_time_sec": 70.7
     },
     {
       "rank": 34,
-      "group": "porto-s-bakers",
-      "perplexity": 33.3185,
-      "total_params": 98619904,
-      "eval_time_sec": 90.94,
-      "wall_time_sec": 96.4
+      "group": "cpzhou",
+      "perplexity": 28.3076,
+      "total_params": 99537312,
+      "eval_time_sec": 72.64,
+      "wall_time_sec": 78.8
     },
     {
       "rank": 35,
-      "group": "not-determined",
-      "perplexity": 34.2197,
-      "total_params": 96088320,
-      "eval_time_sec": 59.17,
-      "wall_time_sec": 64.3
+      "group": "indigo-octothorpe",
+      "perplexity": 30.4388,
+      "total_params": 99727232,
+      "eval_time_sec": 90.0,
+      "wall_time_sec": 96.5
     },
     {
       "rank": 36,
-      "group": "class",
-      "perplexity": 39.4709,
-      "total_params": 51514240,
-      "eval_time_sec": 36.75,
-      "wall_time_sec": 41.2
+      "group": "qudie",
+      "perplexity": 31.5123,
+      "total_params": 95271168,
+      "eval_time_sec": 70.23,
+      "wall_time_sec": 75.0
     },
     {
       "rank": 37,
-      "group": "group7",
-      "perplexity": 39.8165,
-      "total_params": 51500032,
-      "eval_time_sec": 38.3,
-      "wall_time_sec": 41.8
+      "group": "udiegpt",
+      "perplexity": 31.5137,
+      "total_params": 95271168,
+      "eval_time_sec": 63.84,
+      "wall_time_sec": 68.4
     },
     {
       "rank": 38,
-      "group": "liw069",
-      "perplexity": 39.8165,
-      "total_params": 51500032,
-      "eval_time_sec": 38.56,
-      "wall_time_sec": 42.8
+      "group": "porto-s-bakers",
+      "perplexity": 33.3185,
+      "total_params": 98619904,
+      "eval_time_sec": 91.99,
+      "wall_time_sec": 97.2
     },
     {
       "rank": 39,
       "group": "251b-nct",
-      "perplexity": 40.6346,
+      "perplexity": 33.5389,
       "total_params": 91654400,
-      "eval_time_sec": 95.65,
-      "wall_time_sec": 99.6
+      "eval_time_sec": 92.67,
+      "wall_time_sec": 96.8
     },
     {
       "rank": 40,
-      "group": "team-awesome",
-      "perplexity": 41.4169,
-      "total_params": 91903360,
-      "eval_time_sec": 63.09,
-      "wall_time_sec": 67.6
+      "group": "group7",
+      "perplexity": 39.8165,
+      "total_params": 51500032,
+      "eval_time_sec": 39.14,
+      "wall_time_sec": 43.5
     },
     {
       "rank": 41,
-      "group": "orange-cat",
-      "perplexity": 55.1004,
-      "total_params": 98785792,
-      "eval_time_sec": 73.27,
-      "wall_time_sec": 80.8
+      "group": "liw069",
+      "perplexity": 39.8165,
+      "total_params": 51500032,
+      "eval_time_sec": 38.54,
+      "wall_time_sec": 42.8
     },
     {
       "rank": 42,
-      "group": "rabong",
-      "perplexity": 205.81,
-      "total_params": 30357504,
-      "eval_time_sec": 27.41,
-      "wall_time_sec": 30.8
+      "group": "pico-on-my-gptacos",
+      "perplexity": 50.5654,
+      "total_params": 98464240,
+      "eval_time_sec": 67.56,
+      "wall_time_sec": 72.6
     },
     {
       "rank": 43,
-      "group": "zw",
-      "perplexity": 50656.2244,
-      "total_params": 6963840,
-      "eval_time_sec": 14.56,
-      "wall_time_sec": 17.9
-    }
-  ],
-  "errors": [
-    {
-      "group": "otterly-intelligent",
-      "status": "ERROR",
-      "category": "missing_load_model",
-      "hint": "Your `model.py` is missing a `load_model(checkpoint_path, device)` function. See the public README's 'Required Model Interface' section.",
-      "error": "AttributeError: model.py in /home/matt/cse251b-nanogpt-contest/results/downloads/otterly-intelligent must define a load_model(checkpoint_path, device) function."
+      "group": "orange-cat",
+      "perplexity": 55.1004,
+      "total_params": 98785792,
+      "eval_time_sec": 73.05,
+      "wall_time_sec": 80.5
     },
     {
-      "group": "pico-on-my-gptacos",
-      "status": "ERROR",
-      "category": "missing_checkpoint",
-      "hint": "Your repo is missing `checkpoint.pt`. Either name your weights file `checkpoint.pt` or use `--checkpoint_filename` and tell the TAs.",
-      "error": "FileNotFoundError: Checkpoint not found: /home/matt/cse251b-nanogpt-contest/results/downloads/pico-on-my-gptacos/checkpoint.pt"
+      "rank": 44,
+      "group": "rabong",
+      "perplexity": 205.81,
+      "total_params": 30357504,
+      "eval_time_sec": 27.79,
+      "wall_time_sec": 31.2
+    },
+    {
+      "rank": 45,
+      "group": "zw",
+      "perplexity": 745.2912,
+      "total_params": 99750528,
+      "eval_time_sec": 80.76,
+      "wall_time_sec": 85.5
     }
-  ]
+  ],
+  "errors": []
 }
